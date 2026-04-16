@@ -4,7 +4,7 @@ const menuData = [
         id: 10,
         title: 'Клубника в шоколаде',
         category: 'desserts',
-        price: '5 000 сўм',
+        price: '7 000 сўм',
         description: 'Свежая клубника, покрытая шоколадом',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7c0fac247683393.69e0791b5350c.png'
     },
@@ -12,7 +12,7 @@ const menuData = [
         id: 11,
         title: 'Банан в шоколаде',
         category: 'desserts',
-        price: '5 000 сўм',
+        price: '7 000 сўм',
         description: 'Сочный банан в шоколадной глазури',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e3f5da247683393.69e0791b51bf5.png'
     },
@@ -20,7 +20,7 @@ const menuData = [
         id: 12,
         title: 'Шоколадный цветок',
         category: 'desserts',
-        price: '5 000 сўм',
+        price: '7 000 сўм',
         description: 'Цветок из бельгийского шоколада',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a62269247683393.69e0791b51f56.png'
     },
@@ -28,7 +28,7 @@ const menuData = [
         id: 17,
         title: 'Фрукты в стаканчике',
         category: 'desserts',
-        price: '30 000 сўм',
+        price: '25 000 сўм',
         description: 'Свежие фрукты в прозрачном стаканчике с нежной доливкой растопленного шоколада',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/122a68247645547.69df9d7f68449.jpg'
     },
@@ -36,7 +36,7 @@ const menuData = [
         id: 20,
         title: 'Фрукты в стаканчике (маленький)',
         category: 'desserts',
-        price: '18 000 сўм',
+        price: '15 000 сўм',
         description: 'Свежие фрукты в маленьком прозрачном стаканчике с растопленным шоколадом',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6035e5247647121.69dfa3515a4d3.png'
     },
