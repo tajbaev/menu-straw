@@ -78,7 +78,7 @@ const menuData = [
         category: 'drinks',
         price: '5 000 сўм',
         description: 'Свежий зеленый чай с мягким, деликатным вкусом',
-        image: 'https://www.behance.net/gallery/247683743/chaj/modules/1432794205'
+        image: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/e14916247683743.69e07aefa59de.png'
     },
     {
         id: 2,
