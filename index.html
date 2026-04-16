@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choco Garden - Меню</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Шапка -->
+        <header class="header">
+            <div class="language-switcher">
+                <button class="lang-btn" data-lang="ru">РУ</button>
+                <button class="lang-btn" data-lang="en">EN</button>
+                <button class="lang-btn active" data-lang="uz">UZ</button>
+            </div>
+            <div class="header-content">
+                <h1 class="logo" id="logoText">🍓 Choco Garden</h1>
+                <p class="tagline" id="taglineText">Гармония фруктов и шоколада</p>
+            </div>
+        </header>
+
+        <!-- Фильтры категорий -->
+        <nav class="categories">
+            <button class="category-btn active" data-category="all">Все</button>
+            <button class="category-btn" data-category="desserts">Десерты</button>
+            <button class="category-btn" data-category="drinks">Напитки</button>
+        </nav>
+
+        <!-- Главное меню -->
+        <main class="menu-grid" id="menuGrid">
+            <!-- Элементы будут добавлены JavaScript -->
+        </main>
+    </div>
+
+    <!-- Модальное окно для деталей -->
+    <div class="modal" id="itemModal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img id="modalImage" src="" alt="">
+                <div class="modal-info">
+                    <h2 id="modalTitle"></h2>
+                    <p id="modalDescription"></p>
+                    <p class="modal-price" id="modalPrice"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="menu-data.js"></script>
+    <script src="translations.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
