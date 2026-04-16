@@ -44,7 +44,7 @@ const menuData = [
         id: 13,
         title: 'Набор "Choco Garden Box"',
         category: 'desserts',
-        price: '125 000 сўм',
+        price: '40 000 сўм',
         description: 'Идеальный сладкий набор для подарка',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e29906247683393.69e0791b529d8.png'
     },
@@ -52,7 +52,7 @@ const menuData = [
         id: 23,
         title: 'Набор "Choco Garden Box"',
         category: 'desserts',
-        price: '125 000 сўм',
+        price: '50 000 сўм',
         description: 'Идеальный сладкий набор для подарка',
         image: 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/80a19a247683393.69e0791b52633.png'
     },
